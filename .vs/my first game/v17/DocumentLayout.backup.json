@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\princ\\my first game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74873070-1D73-101A-DFD2-6896EBE391F9}|Assembly-CSharp.csproj|C:\\Users\\princ\\my first game\\assets\\scripts\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74873070-1D73-101A-DFD2-6896EBE391F9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74873070-1D73-101A-DFD2-6896EBE391F9}|Assembly-CSharp.csproj|c:\\users\\princ\\my first game\\assets\\scripts\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74873070-1D73-101A-DFD2-6896EBE391F9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\my first game\\Assets\\scripts\\Driver.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Driver.cs",
+              "ToolTip": "C:\\Users\\princ\\my first game\\Assets\\scripts\\Driver.cs",
+              "RelativeToolTip": "Assets\\scripts\\Driver.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T12:10:07.829Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "delivery.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\my first game\\Assets\\scripts\\delivery.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\delivery.cs",
+              "ToolTip": "C:\\Users\\princ\\my first game\\Assets\\scripts\\delivery.cs",
+              "RelativeToolTip": "Assets\\scripts\\delivery.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T13:35:07.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
